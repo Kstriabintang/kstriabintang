@@ -18,17 +18,21 @@
 
 <h3 align="center">I'm a developer from <strong>Indonesia</strong> 🇮🇩 passionate about cybersecurity, full stack development, and building automation tools. I hunt vulnerabilities by day and build bots by night.</h3>
 
-- 🔐 &nbsp;**Bug Hunter** — Web security & vulnerability research
-- 🌐 &nbsp;**Full Stack** — Frontend, backend, API, database
-- 🤖 &nbsp;**Bot Builder** — WhatsApp, Telegram & Discord bots
-- ⚡ &nbsp;**Automation** — Scripts, scrapers & CLI tools
+<br/>
+
+<big>🔐 &nbsp;**Bug Hunter** — Web security & vulnerability research</big><br/>
+<big>🌐 &nbsp;**Full Stack** — Frontend, backend, API, database</big><br/>
+<big>🤖 &nbsp;**Bot Builder** — WhatsApp, Telegram & Discord bots</big><br/>
+<big>⚡ &nbsp;**Automation** — Scripts, scrapers & CLI tools</big>
 
 #### `🎯 Currently`
 
-- 🔭 Working on **automation tools & security scripts**
-- 🌱 Learning **advanced exploit development & cloud security**
-- 👯 Looking to collaborate on **open-source security tools**
-- ⚡ Fun fact: *I break things to make them stronger* 💪
+<br/>
+
+<big>🔭 Working on **automation tools & security scripts**</big><br/>
+<big>🌱 Learning **advanced exploit development & cloud security**</big><br/>
+<big>👯 Looking to collaborate on **open-source security tools**</big><br/>
+<big>⚡ Fun fact: *I break things to make them stronger* 💪</big>
 
 ---
 
