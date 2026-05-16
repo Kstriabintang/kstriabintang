@@ -15,7 +15,6 @@
 ---
 
 #### `😈 About Me`
-
 <h3 align="center">I'm a developer from <strong>Indonesia</strong> 🇮🇩 passionate about cybersecurity, full stack development, and building automation tools. I hunt vulnerabilities by day and build bots by night.</h3>
 
 <br/>
@@ -26,9 +25,6 @@
 <big>⚡ &nbsp;**Automation** — Scripts, scrapers & CLI tools</big>
 
 #### `🎯 Currently`
-
-<br/>
-
 <big>🔭 Working on **automation tools & security scripts**</big><br/>
 <big>🌱 Learning **advanced exploit development & cloud security**</big><br/>
 <big>👯 Looking to collaborate on **open-source security tools**</big><br/>
@@ -101,9 +97,9 @@
 
 <br/>
 
-> ***"Hackers are breaking systems for profit. Before, it was about intellectual curiosity and pursuit of knowledge."***
->
-> **— Kevin Mitnick**
+<h3 align="center"><em>"Hackers are breaking systems for profit. Before, it was about intellectual curiosity and pursuit of knowledge."</em></h3>
+
+<h3 align="center"><strong>— Kevin Mitnick</strong></h3>
 
 <br/>
 
