@@ -16,7 +16,7 @@
 
 #### `😈 About Me`
 
-I'm a developer from **Indonesia** 🇮🇩 passionate about cybersecurity, full stack development, and building automation tools. I hunt vulnerabilities by day and build bots by night.
+<h3 align="center">I'm a developer from <strong>Indonesia</strong> 🇮🇩 passionate about cybersecurity, full stack development, and building automation tools. I hunt vulnerabilities by day and build bots by night.</h3>
 
 - 🔐 &nbsp;**Bug Hunter** — Web security & vulnerability research
 - 🌐 &nbsp;**Full Stack** — Frontend, backend, API, database
