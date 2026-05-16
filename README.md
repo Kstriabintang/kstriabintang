@@ -97,9 +97,9 @@
 
 <br/>
 
-<h3 align="center"><em>"Hackers are breaking systems for profit. Before, it was about intellectual curiosity and pursuit of knowledge."</em></h3>
+<h4 align="center"><em>"Hackers are breaking systems for profit. Before, it was about intellectual curiosity and pursuit of knowledge."</em></h4>
 
-<h3 align="center"><strong>— Kevin Mitnick</strong></h3>
+<h4 align="center"><strong>— Kevin Mitnick</strong></h4>
 
 <br/>
 
