@@ -15,7 +15,7 @@
 
 ---
 
-#### `💜 About Me`
+#### `About Me`
 
 I'm a developer from **Indonesia** 🇮🇩 passionate about cybersecurity, full stack development, and building automation tools. I hunt vulnerabilities by day and build bots by night.
 
@@ -23,7 +23,6 @@ I'm a developer from **Indonesia** 🇮🇩 passionate about cybersecurity, full
 - 🌐 &nbsp;**Full Stack** — Frontend, backend, API, database
 - 🤖 &nbsp;**Bot Builder** — WhatsApp, Telegram & Discord bots
 - ⚡ &nbsp;**Automation** — Scripts, scrapers & CLI tools
-- 📫 &nbsp;**Contact** — [ksatriabintangsamudra2022@gmail.com](mailto:ksatriabintangsamudra2022@gmail.com)
 
 #### `🎯 Currently`
 
@@ -97,13 +96,13 @@ I'm a developer from **Indonesia** 🇮🇩 passionate about cybersecurity, full
 
 <div align="center">
 
-| | |
-|:---:|:---:|
-| *"Talk is cheap. Show me the code."* | *"The best way to predict the future is to invent it."* |
-| **Linus Torvalds** — Creator of Linux & Git | **Alan Kay** — OOP Pioneer |
-| | |
-| *"Hackers are breaking systems for profit. Before, it was about intellectual curiosity and pursuit of knowledge."* | *"The function of good software is to make the complex appear to be simple."* |
-| **Kevin Mitnick** — Legendary Hacker | **Grady Booch** — Software Engineering Pioneer |
+<br/>
+
+> ***"Hackers are breaking systems for profit. Before, it was about intellectual curiosity and pursuit of knowledge."***
+>
+> **— Kevin Mitnick** · *Legendary Hacker*
+
+<br/>
 
 </div>
 
