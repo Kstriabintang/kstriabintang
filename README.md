@@ -9,13 +9,12 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Kstriabintang-4c1d95?style=flat&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Kstriabintang)
-[![Visitors](https://komarev.com/ghpvc/?username=Kstriabintang&color=4c1d95&style=flat&label=Visitors)](https://github.com/Kstriabintang)
 
 </div>
 
 ---
 
-#### `About Me`
+#### `😈 About Me`
 
 I'm a developer from **Indonesia** 🇮🇩 passionate about cybersecurity, full stack development, and building automation tools. I hunt vulnerabilities by day and build bots by night.
 
@@ -76,7 +75,7 @@ I'm a developer from **Indonesia** 🇮🇩 passionate about cybersecurity, full
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kstriabintang&layout=compact&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=e2e8f0&langs_count=8" width="38%" />
+
 
 </div>
 
@@ -100,7 +99,7 @@ I'm a developer from **Indonesia** 🇮🇩 passionate about cybersecurity, full
 
 > ***"Hackers are breaking systems for profit. Before, it was about intellectual curiosity and pursuit of knowledge."***
 >
-> **— Kevin Mitnick** · *Legendary Hacker*
+> **— Kevin Mitnick**
 
 <br/>
 
@@ -116,7 +115,7 @@ I'm a developer from **Indonesia** 🇮🇩 passionate about cybersecurity, full
 <a href="https://instagram.com/ven_0day"><img src="https://img.shields.io/badge/Instagram-4c1d95?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ksatria-bintang-samudra-265952313"><img src="https://img.shields.io/badge/LinkedIn-5b21b6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ksatriabintangsamudra2022@gmail.com"><img src="https://img.shields.io/badge/Gmail-4c1d95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://tiktok.com/@ksatriabintang_"><img src="https://img.shields.io/badge/TikTok-2e1065?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+<a href="https://tiktok.com/@ksatriabintangsamudra"><img src="https://img.shields.io/badge/TikTok-2e1065?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
 
 </div>
 
@@ -124,7 +123,7 @@ I'm a developer from **Indonesia** 🇮🇩 passionate about cybersecurity, full
 
 <div align="center">
 
-> *"Secure it. Build it. Automate it."* 💜
+> *"Secure it. Build it. Automate it."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a0533,60:4c1d95,100:2e1065&height=100&section=footer" width="100%"/>
 
