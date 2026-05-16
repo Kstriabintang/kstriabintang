@@ -15,7 +15,7 @@
 
 ---
 
-#### `💜 About`
+#### `💜 About Me`
 
 I'm a developer from **Indonesia** 🇮🇩 passionate about cybersecurity, full stack development, and building automation tools. I hunt vulnerabilities by day and build bots by night.
 
@@ -24,6 +24,13 @@ I'm a developer from **Indonesia** 🇮🇩 passionate about cybersecurity, full
 - 🤖 &nbsp;**Bot Builder** — WhatsApp, Telegram & Discord bots
 - ⚡ &nbsp;**Automation** — Scripts, scrapers & CLI tools
 - 📫 &nbsp;**Contact** — [ksatriabintangsamudra2022@gmail.com](mailto:ksatriabintangsamudra2022@gmail.com)
+
+#### `🎯 Currently`
+
+- 🔭 Working on **automation tools & security scripts**
+- 🌱 Learning **advanced exploit development & cloud security**
+- 👯 Looking to collaborate on **open-source security tools**
+- ⚡ Fun fact: *I break things to make them stronger* 💪
 
 ---
 
@@ -51,6 +58,16 @@ I'm a developer from **Indonesia** 🇮🇩 passionate about cybersecurity, full
 
 ---
 
+#### `🏆 GitHub Trophies`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kstriabintang&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" />
+
+</div>
+
+---
+
 #### `📊 Analytics`
 
 <div align="center">
@@ -60,13 +77,58 @@ I'm a developer from **Indonesia** 🇮🇩 passionate about cybersecurity, full
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kstriabintang&layout=compact&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=e2e8f0&langs_count=6" width="38%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kstriabintang&layout=compact&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=e2e8f0&langs_count=8" width="38%" />
 
 </div>
 
 ---
 
-#### `📈 Contribution`
+#### `⏱ WakaTime Stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kstriabintang&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=e2e8f0&layout=compact" width="60%" />
+
+</div>
+
+---
+
+#### `🐍 Contribution Snake`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kstriabintang/Kstriabintang/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kstriabintang/Kstriabintang/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Kstriabintang/Kstriabintang/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+#### `🔥 Featured Projects`
+
+<div align="center">
+
+<!-- Ganti 'repo-name' dengan nama repository kamu -->
+<!-- Contoh:
+<a href="https://github.com/Kstriabintang/nama-repo-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kstriabintang&repo=nama-repo-1&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=7c3aed&text_color=e2e8f0" width="49%" />
+</a>
+<a href="https://github.com/Kstriabintang/nama-repo-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kstriabintang&repo=nama-repo-2&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=7c3aed&text_color=e2e8f0" width="49%" />
+</a>
+-->
+
+> 💡 *Tambahkan project favoritmu di sini!*  
+> Edit bagian ini di README dan ganti `nama-repo` dengan repository yang ingin ditampilkan.
+
+</div>
+
+---
+
+#### `📈 Contribution Graph`
 
 <div align="center">
 
@@ -92,7 +154,7 @@ I'm a developer from **Indonesia** 🇮🇩 passionate about cybersecurity, full
 
 ---
 
-#### `🔗 Connect`
+#### `🔗 Connect With Me`
 
 <div align="center">
 
