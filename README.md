@@ -144,7 +144,7 @@ Mindset     : Build fast. Build secure. Ship smart.
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha"/>
 
 </div>
 
