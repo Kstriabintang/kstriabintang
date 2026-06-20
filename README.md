@@ -2,7 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:111827,50:4c1d95,75:7c3aed,100:000000&height=260&section=header&text=KSATRIA%20BINTANG%20SAMUDRA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20•%20Automation%20Builder%20•%20Security%20Researcher&descSize=15&descColor=a78bfa&descAlignY=58"/>
 
-
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320"/>
 
 <br/><br/>
@@ -98,9 +97,13 @@ Mindset     : Build fast. Build secure. Ship smart.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kstriabintang&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kstriabintang&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kstriabintang&theme=midnight-purple&hide_border=true&background=0D1117"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=Kstriabintang&theme=midnight-purple&hide_border=true&background=0D1117"/>
+
+<br/><br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kstriabintang&layout=compact&langs_count=8&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
 
 <br/><br/>
 
@@ -114,7 +117,7 @@ Mindset     : Build fast. Build secure. Ship smart.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kstriabintang&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Kstriabintang&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10"/>
 
 </div>
 
@@ -124,7 +127,11 @@ Mindset     : Build fast. Build secure. Ship smart.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kstriabintang/Kstriabintang/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kstriabintang/Kstriabintang/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Kstriabintang/Kstriabintang/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -144,7 +151,7 @@ Mindset     : Build fast. Build secure. Ship smart.
 
 <br/><br/>
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha"/>
 
 </div>
 
@@ -184,6 +191,6 @@ Mindset     : Build fast. Build secure. Ship smart.
 
 ### ⚡ "CODE. BUILD. AUTOMATE. REPEAT."
 
-<img src="https://komarev.com/ghpvc/?username=Kstriabintang&style=for-the-badge&color=7c3aed"/>
+<img src="https://komarev.com/ghpvc/?username=Kstriabintang&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
 
 </div>
