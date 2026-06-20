@@ -93,6 +93,35 @@ Mindset     : Build fast. Build secure. Ship smart.
 
 ---
 
+# 🚀 FEATURED PROJECTS
+
+<div align="center">
+
+<a href="https://github.com/Kstriabintang/makmur-motor">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kstriabintang&repo=makmur-motor&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+</a>
+<a href="https://github.com/Kstriabintang/venmail">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kstriabintang&repo=venmail&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+</a>
+
+<a href="https://github.com/Kstriabintang/venproxy">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kstriabintang&repo=venproxy&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+</a>
+<a href="https://github.com/Kstriabintang/luxafoir">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kstriabintang&repo=luxafoir&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+</a>
+
+<a href="https://github.com/Kstriabintang/wifisiapa">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kstriabintang&repo=wifisiapa&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+</a>
+<a href="https://github.com/Kstriabintang/Kstriabintang.github.io">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kstriabintang&repo=Kstriabintang.github.io&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+</a>
+
+</div>
+
+---
+
 # 📊 GITHUB ANALYTICS
 
 <div align="center">
@@ -134,10 +163,6 @@ Mindset     : Build fast. Build secure. Ship smart.
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=THINK+IN+SYSTEMS.;BUILD+WITH+INTENTION.;AUTOMATE+EVERYTHING.;SECURITY+IS+NOT+OPTIONAL." />
-
-<br/><br/>
-
-<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:4c1d95,100:111827&height=120&section=header&text=CODE%20•%20BUILD%20•%20AUTOMATE%20•%20REPEAT&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
 
 <br/><br/>
 
