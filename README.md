@@ -97,7 +97,7 @@ Mindset     : Build fast. Build secure. Ship smart.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kstriabintang&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kstriabintang&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
 
 <img width="49%" src="https://streak-stats.demolab.com/?user=Kstriabintang&theme=midnight-purple&hide_border=true&background=0D1117"/>
 
@@ -108,16 +108,6 @@ Mindset     : Build fast. Build secure. Ship smart.
 <br/><br/>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kstriabintang&bg_color=0d1117&color=a855f7&line=9333ea&point=c084fc&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kstriabintang&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10"/>
 
 </div>
 
