@@ -1,200 +1,131 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:111827,50:4c1d95,75:7c3aed,100:000000&height=260&section=header&text=KSATRIA%20BINTANG%20SAMUDRA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20•%20Automation%20Builder%20•%20Security%20Researcher&descSize=15&descColor=a78bfa&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1a,45:02aab0,100:00cdac&height=260&section=header&text=KSATRIA%20BINTANG%20SAMUDRA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20•%20Automation%20Builder%20•%20Solutions%20Architect&descSize=15&descColor=e8e8ec&descAlignY=58"/>
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320"/>
+<br/>
 
-<br/><br/>
-
-<a href="mailto:ksatriabintangsamudra2022@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a"/>
+<a href="https://ksatriabintangsamudra.com">
+<img src="https://img.shields.io/badge/WEBSITE-KSATRIABINTANGSAMUDRA.COM-02aab0?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f0f1a"/>
 </a>
-
-<a href="https://github.com/Kstriabintang">
-<img src="https://img.shields.io/badge/GITHUB-KSTRIABINTANG-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a"/>
+<a href="https://www.linkedin.com/in/ksatriabintangsamudra">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0f1a"/>
 </a>
-
-<a href="https://instagram.com/ven_0day">
-<img src="https://img.shields.io/badge/INSTAGRAM-@VEN_0DAY-9333ea?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f172a"/>
+<a href="mailto:hello@ksatriabintangsamudra.com">
+<img src="https://img.shields.io/badge/EMAIL-HELLO@...-00cdac?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0f1a"/>
 </a>
-
-<a href="https://www.linkedin.com/in/ksatria-bintang-samudra-265952313">
-<img src="https://img.shields.io/badge/LINKEDIN-KSATRIA-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a"/>
+<a href="https://www.threads.com/@ven_0day">
+<img src="https://img.shields.io/badge/THREADS-@VEN__0DAY-00d9ce?style=for-the-badge&logo=threads&logoColor=white&labelColor=0f0f1a"/>
 </a>
 
 </div>
 
 ---
 
-# 👾 ABOUT ME
+## 👾 About Me
 
 ```bash
 > whoami
 
-Name        : Ksatria Bintang Samudra
-Role        : AI Engineer & Automation Builder
-Location    : Indonesia 🇮🇩
-Focus       : AI Systems, Full Stack Development, Security
-Mindset     : Build fast. Build secure. Ship smart.
+Name      : Ksatria Bintang Samudra
+Role      : AI Engineer · Automation Builder · Solutions Architect
+Company   : Luxavero LLC (Wyoming, USA)
+Location  : Pontianak, Indonesia 🇮🇩
+Focus     : Production AI · SaaS · Automation · Payments
+Site      : ksatriabintangsamudra.com
+Mindset   : Build fast. Build secure. Ship smart.
 ```
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+I'm an AI engineer and full-stack developer who ships software that runs in production — not demos. I build AI/LLM features, SaaS products, automation and payment-native systems, and I own every architectural decision and security boundary.
 
-### ⚡ CURRENTLY
-
-* 🔭 Building AI-powered production systems
-* 🌱 Exploring LLM orchestration & multi-agent workflows
-* 🤖 Developing bots, automation & payment systems
-* 🔐 Security-focused engineering & bug hunting
-* 🚀 Open for remote opportunities & collaborations
-
-<br clear="right"/>
+### ⚡ Currently
+- 🔭 Building AI-powered production systems (AI gateways, agents, LLM features)
+- 🤖 Shipping automation, bots and payment flows (QRIS / Midtrans / Stripe)
+- 🧱 Full-stack on Next.js, Laravel, Flutter, Cloudflare & Supabase
+- 🔐 Security-first engineering (penetration-testing background)
+- 🚀 Open for remote opportunities & collaborations worldwide
 
 ---
 
-# 🛠 TECH STACK
+## 🛠 Tech Stack
 
 <div align="center">
 
-### 🤖 AI & AUTOMATION
+**AI & Automation**
 
 <img src="https://skillicons.dev/icons?i=python,nodejs,typescript,javascript&theme=dark"/>
-
-<br/><br/>
-
+<br/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Copilot-171515?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM_Orchestration-02aab0?style=for-the-badge&logoColor=white"/>
 
 <br/><br/>
 
-### 🌐 FULL STACK
+**Full Stack**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,express,fastapi,flask,mongodb,mysql,postgres,firebase&theme=dark"/>
-
-<br/><br/>
-
-### ⚙️ DEVOPS & SECURITY
-
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,vscode,bash,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,laravel,flutter,fastapi,supabase,postgres,mysql,cloudflare&theme=dark"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Burp_Suite-7c3aed?style=flat-square&logo=hackthebox&logoColor=white"/>
-<img src="https://img.shields.io/badge/OWASP-7c3aed?style=flat-square&logo=owasp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-7c3aed?style=flat-square&logo=gnu-bash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-7c3aed?style=flat-square&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/WhatsApp_Bot-7c3aed?style=flat-square&logo=whatsapp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Telegram_Bot-7c3aed?style=flat-square&logo=telegram&logoColor=white"/>
-<img src="https://img.shields.io/badge/Discord_Bot-7c3aed?style=flat-square&logo=discord&logoColor=white"/>
+**DevOps & Security**
+
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,bash,postman&theme=dark"/>
+<br/>
+<img src="https://img.shields.io/badge/Burp_Suite-0f766e?style=flat-square&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-0f766e?style=flat-square&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-0f766e?style=flat-square&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Telegram_Bot-0f766e?style=flat-square&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp_Bot-0f766e?style=flat-square&logo=whatsapp&logoColor=white"/>
 
 </div>
 
 ---
 
-# 🚀 FEATURED PROJECTS
+## 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/Kstriabintang/makmur-motor">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kstriabintang&repo=makmur-motor&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
-</a>
-<a href="https://github.com/Kstriabintang/venmail">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kstriabintang&repo=venmail&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
-</a>
-
-<a href="https://github.com/Kstriabintang/venproxy">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kstriabintang&repo=venproxy&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+<a href="https://github.com/Kstriabintang/Kstriabintang.github.io">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kstriabintang&repo=Kstriabintang.github.io&hide_border=true&bg_color=0f0f1a&title_color=02aab0&icon_color=00cdac&text_color=9aa4b8"/>
 </a>
 <a href="https://github.com/Kstriabintang/luxafoir">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kstriabintang&repo=luxafoir&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kstriabintang&repo=luxafoir&hide_border=true&bg_color=0f0f1a&title_color=02aab0&icon_color=00cdac&text_color=9aa4b8"/>
 </a>
 
-<a href="https://github.com/Kstriabintang/wifisiapa">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kstriabintang&repo=wifisiapa&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+<a href="https://github.com/Kstriabintang/makmur-motor">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kstriabintang&repo=makmur-motor&hide_border=true&bg_color=0f0f1a&title_color=02aab0&icon_color=00cdac&text_color=9aa4b8"/>
 </a>
-<a href="https://github.com/Kstriabintang/Kstriabintang.github.io">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kstriabintang&repo=Kstriabintang.github.io&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+<a href="https://github.com/Kstriabintang/venmail">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kstriabintang&repo=venmail&hide_border=true&bg_color=0f0f1a&title_color=02aab0&icon_color=00cdac&text_color=9aa4b8"/>
 </a>
 
 </div>
 
 ---
 
-# 📊 GITHUB ANALYTICS
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kstriabintang&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
-
-<img width="49%" src="https://streak-stats.demolab.com/?user=Kstriabintang&theme=midnight-purple&hide_border=true&background=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kstriabintang&show_icons=true&count_private=true&hide_border=true&bg_color=0f0f1a&title_color=02aab0&icon_color=00cdac&text_color=9aa4b8"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=Kstriabintang&hide_border=true&background=0f0f1a&ring=00cdac&fire=02aab0&currStreakLabel=00cdac&sideLabels=9aa4b8&currStreakNum=e8e8ec&sideNums=e8e8ec&dates=6b7280"/>
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kstriabintang&layout=compact&langs_count=8&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kstriabintang&layout=compact&langs_count=8&count_private=true&hide_border=true&bg_color=0f0f1a&title_color=02aab0&text_color=9aa4b8"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kstriabintang&bg_color=0d1117&color=a855f7&line=9333ea&point=c084fc&area=true&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kstriabintang&bg_color=0f0f1a&color=00cdac&line=02aab0&point=00d9ce&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+## 💭 Philosophy
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kstriabintang/Kstriabintang/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kstriabintang/Kstriabintang/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Kstriabintang/Kstriabintang/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
-# 💭 PHILOSOPHY
-
-<div align="center">
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=THINK+IN+SYSTEMS.;BUILD+WITH+INTENTION.;AUTOMATE+EVERYTHING.;SECURITY+IS+NOT+OPTIONAL." />
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha"/>
-
-</div>
-
----
-
-# 🌌 CONNECT WITH ME
-
-<div align="center">
-
-<a href="https://github.com/Kstriabintang">
-<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/ven_0day">
-<img src="https://img.shields.io/badge/Instagram-9333ea?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ksatria-bintang-samudra-265952313">
-<img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:ksatriabintangsamudra2022@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-a855f7?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://tiktok.com/@ksatriabintangsamudra">
-<img src="https://img.shields.io/badge/TikTok-111827?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=02AAB0&center=true&vCenter=true&width=900&lines=AI+Engineer+%C2%B7+Automation+Builder+%C2%B7+Solutions+Architect;Production+AI+%C2%B7+SaaS+%C2%B7+Automation+%C2%B7+Payments;Build+fast.+Build+secure.+Ship+smart." />
 
 </div>
 
@@ -202,10 +133,8 @@ Mindset     : Build fast. Build secure. Ship smart.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:7c3aed,100:050816&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00cdac,50:02aab0,100:0f0f1a&height=120&section=footer"/>
 
-### ⚡ "CODE. BUILD. AUTOMATE. REPEAT."
-
-<img src="https://komarev.com/ghpvc/?username=Kstriabintang&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Kstriabintang&style=for-the-badge&color=02aab0&label=PROFILE+VIEWS"/>
 
 </div>
