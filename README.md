@@ -38,6 +38,7 @@ Mindset   : Build fast. Build secure. Ship smart.
 I'm an AI engineer and full-stack developer who ships software that runs in production — not demos. I build AI/LLM features, SaaS products, automation and payment-native systems, and I own every architectural decision and security boundary.
 
 ### ⚡ Currently
+- ⛏️ Building CoalTrack — anti-fraud attendance + automatic payroll (HRIS) for coal-mining companies, live at [coaltrack.id](https://coaltrack.id)
 - 🔭 Building AI-powered production systems (AI gateways, agents, LLM features)
 - 🤖 Shipping automation, bots and payment flows (QRIS / Midtrans / Stripe)
 - 🧱 Full-stack on Next.js, Laravel, Flutter, Cloudflare & Supabase
@@ -84,16 +85,20 @@ I'm an AI engineer and full-stack developer who ships software that runs in prod
 
 <div align="center">
 
+<a href="https://github.com/Kstriabintang/coaltrack-showcase">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kstriabintang&repo=coaltrack-showcase&hide_border=true&bg_color=0f0f1a&title_color=02aab0&icon_color=00cdac&text_color=9aa4b8"/>
+</a>
 <a href="https://github.com/Kstriabintang/Kstriabintang.github.io">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kstriabintang&repo=Kstriabintang.github.io&hide_border=true&bg_color=0f0f1a&title_color=02aab0&icon_color=00cdac&text_color=9aa4b8"/>
 </a>
+
 <a href="https://github.com/Kstriabintang/luxafoir">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kstriabintang&repo=luxafoir&hide_border=true&bg_color=0f0f1a&title_color=02aab0&icon_color=00cdac&text_color=9aa4b8"/>
 </a>
-
 <a href="https://github.com/Kstriabintang/makmur-motor">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kstriabintang&repo=makmur-motor&hide_border=true&bg_color=0f0f1a&title_color=02aab0&icon_color=00cdac&text_color=9aa4b8"/>
 </a>
+
 <a href="https://github.com/Kstriabintang/venmail">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kstriabintang&repo=venmail&hide_border=true&bg_color=0f0f1a&title_color=02aab0&icon_color=00cdac&text_color=9aa4b8"/>
 </a>
