@@ -88,8 +88,8 @@ I'm an AI engineer and full-stack developer who ships software that runs in prod
 <a href="https://github.com/Kstriabintang/coaltrack-showcase">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kstriabintang&repo=coaltrack-showcase&hide_border=true&bg_color=0f0f1a&title_color=02aab0&icon_color=00cdac&text_color=9aa4b8"/>
 </a>
-<a href="https://github.com/Kstriabintang/Kstriabintang.github.io">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kstriabintang&repo=Kstriabintang.github.io&hide_border=true&bg_color=0f0f1a&title_color=02aab0&icon_color=00cdac&text_color=9aa4b8"/>
+<a href="https://github.com/Kstriabintang/ksatriabintangsamudra.com">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kstriabintang&repo=ksatriabintangsamudra.com&hide_border=true&bg_color=0f0f1a&title_color=02aab0&icon_color=00cdac&text_color=9aa4b8"/>
 </a>
 
 <a href="https://github.com/Kstriabintang/luxafoir">
