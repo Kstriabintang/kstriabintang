@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1a,45:02aab0,100:00cdac&height=260&section=header&text=KSATRIA%20BINTANG%20SAMUDRA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20•%20Automation%20Builder%20•%20Solutions%20Architect&descSize=15&descColor=e8e8ec&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1a,45:02aab0,100:00cdac&height=260&section=header&text=KSATRIA%20BINTANG%20SAMUDRA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Product%20Engineer%20•%20Mining%20%26%20Vertical%20SaaS%20•%20AI-augmented&descSize=15&descColor=e8e8ec&descAlignY=58"/>
 
 <br/>
 
@@ -27,7 +27,7 @@
 > whoami
 
 Name      : Ksatria Bintang Samudra
-Role      : AI Engineer · Automation Builder · Solutions Architect
+Role      : Product Engineer · Mining & Vertical SaaS · AI-augmented
 Company   : Luxavero LLC (Wyoming, USA)
 Location  : Pontianak, Indonesia 🇮🇩
 Focus     : Production AI · SaaS · Automation · Payments
@@ -35,11 +35,12 @@ Site      : ksatriabintangsamudra.com
 Mindset   : Build fast. Build secure. Ship smart.
 ```
 
-I'm an AI engineer and full-stack developer who ships software that runs in production — not demos. I build AI/LLM features, SaaS products, automation and payment-native systems, and I own every architectural decision and security boundary.
+I'm a product engineer for mining and vertical SaaS — AI-augmented — who ships software that runs in production, not demos. I build the full stack of real products: operational systems for industry, payment-native commerce, and the automation and LLM features around them, and I own every architectural decision and security boundary.
 
 ### ⚡ Currently
 - ⛏️ Building CoalTrack — anti-fraud attendance + automatic payroll (HRIS) for coal-mining companies, live at [coaltrack.id](https://coaltrack.id)
-- 🔭 Building AI-powered production systems (AI gateways, agents, LLM features)
+- 🛒 Shipping Varo Store — a live PPOB & game top-up store (online shop + tablet point-of-sale) for a district in Riau, at [varostore.com](https://varostore.com)
+- 🔭 Building production systems with AI woven in where it earns its place (gateways, agents, LLM features)
 - 🤖 Shipping automation, bots and payment flows (QRIS / Midtrans / Stripe)
 - 🧱 Full-stack on Next.js, Laravel, Flutter, Cloudflare & Supabase
 - 🔐 Security-first engineering (penetration-testing background)
@@ -88,6 +89,10 @@ I'm an AI engineer and full-stack developer who ships software that runs in prod
 <a href="https://github.com/Kstriabintang/coaltrack-showcase">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kstriabintang&repo=coaltrack-showcase&hide_border=true&bg_color=0f0f1a&title_color=02aab0&icon_color=00cdac&text_color=9aa4b8"/>
 </a>
+<a href="https://github.com/Kstriabintang/varo-store-showcase">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kstriabintang&repo=varo-store-showcase&hide_border=true&bg_color=0f0f1a&title_color=02aab0&icon_color=00cdac&text_color=9aa4b8"/>
+</a>
+
 <a href="https://github.com/Kstriabintang/ksatriabintangsamudra.com">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kstriabintang&repo=ksatriabintangsamudra.com&hide_border=true&bg_color=0f0f1a&title_color=02aab0&icon_color=00cdac&text_color=9aa4b8"/>
 </a>
@@ -130,7 +135,7 @@ I'm an AI engineer and full-stack developer who ships software that runs in prod
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=02AAB0&center=true&vCenter=true&width=900&lines=AI+Engineer+%C2%B7+Automation+Builder+%C2%B7+Solutions+Architect;Production+AI+%C2%B7+SaaS+%C2%B7+Automation+%C2%B7+Payments;Build+fast.+Build+secure.+Ship+smart." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=02AAB0&center=true&vCenter=true&width=900&lines=Product+Engineer+%C2%B7+Mining+%26+Vertical+SaaS;AI-augmented+%C2%B7+SaaS+%C2%B7+Automation+%C2%B7+Payments;Build+fast.+Build+secure.+Ship+smart." />
 
 </div>
 
