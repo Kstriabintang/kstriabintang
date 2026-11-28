@@ -29,7 +29,7 @@
 Name      : Ksatria Bintang Samudra
 Role      : Product Engineer · Mining & Vertical SaaS · AI-augmented
 Company   : Luxavero LLC (Wyoming, USA)
-Location  : Pontianak, Indonesia 🇮🇩
+Location  : Riau, Indonesia 🇮🇩
 Focus     : Production AI · SaaS · Automation · Payments
 Site      : ksatriabintangsamudra.com
 Mindset   : Build fast. Build secure. Ship smart.
